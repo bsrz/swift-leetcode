@@ -1,0 +1,150 @@
+{
+  "originHash" : "c8424c8311f360cee2cf2bb44f110ec09016cd3b03093c5033f352487867ea93",
+  "pins" : [
+    {
+      "identity" : "swift-addition",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-addition.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d7b7c60c5ea60089de83dd85c638a7c5964f033e"
+      }
+    },
+    {
+      "identity" : "swift-carrier",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-carrier.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3438c0f232913f744c5ae1f69732e8d1283881e5"
+      }
+    },
+    {
+      "identity" : "swift-exponential",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-exponential.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0048121e579387c546a5dc3003c6fff1dfb7c66f"
+      }
+    },
+    {
+      "identity" : "swift-multiplication",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-multiplication.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6921353ebe780d5aa79cff92d9c53aa1863d4d19"
+      }
+    },
+    {
+      "identity" : "swift-numeric",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-numeric.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ae85363b794739ddaf5fdcc4b354e39fa4aa0aae"
+      }
+    },
+    {
+      "identity" : "swift-order",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-order.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "13f7202d5a59378df720c88bcf1e196ccd16370b"
+      }
+    },
+    {
+      "identity" : "swift-ownership",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-ownership.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e82929748e9e59840a307e6f8640d691124d9c67"
+      }
+    },
+    {
+      "identity" : "swift-pair",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-pair.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1991d701193020bfac43f1fe475ccdc3d3a36918"
+      }
+    },
+    {
+      "identity" : "swift-polarity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-polarity.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a21aa0fc82067f69284b3e8c280d28bf3bfafc8a"
+      }
+    },
+    {
+      "identity" : "swift-property",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-property.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1666dd362f7b67bbc0a5c3fa6971229e184dfe91"
+      }
+    },
+    {
+      "identity" : "swift-quantizer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-quantizer.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "11493635984b24507ae92de8b2098f7d1459cd72"
+      }
+    },
+    {
+      "identity" : "swift-rounding",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-rounding.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "db8338602d5247318c02c06d901604119c7c425c"
+      }
+    },
+    {
+      "identity" : "swift-subtraction",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-subtraction.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c177725d8eb0c2b00aee6e3eecc7e10dfc2346e9"
+      }
+    },
+    {
+      "identity" : "swift-tagged",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-tagged.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f200f9bcd27fd728f9d185708e9e068278520900"
+      }
+    },
+    {
+      "identity" : "swift-testing-performance",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/coenttb/swift-testing-performance.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9df558930785fb495f70e63f491b68339f011b78"
+      }
+    },
+    {
+      "identity" : "swift-trigonometry",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-atoms/swift-trigonometry.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5de64ffa977fcf659149e8ef27d21f1460577a41"
+      }
+    }
+  ],
+  "version" : 3
+}
